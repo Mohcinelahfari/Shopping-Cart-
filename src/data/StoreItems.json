@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Grand Adventure",
+    "price": 19.99,
+    "images": "shoppingStore"
+  },
+  {
+    "id": 2,
+    "title": "Mystery of the Lost Island",
+    "price": 14.99,
+    "images": "book"
+  },
+  {
+    "id": 3,
+    "title": "The Science Chronicles",
+    "price": 24.99,
+    "images": "banane"
+  },
+  {
+    "id": 4,
+    "title": "The Fantasy Realms",
+    "price": 29.99,
+    "images": "pc"
+  }
+]
